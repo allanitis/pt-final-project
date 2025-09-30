@@ -2,7 +2,7 @@
 const stories = {
     'koala': {
         title: "1. The Sleepy Tree!",
-        image: "image-koala.png", // Replace with a cartoon koala image
+        image: "koala.jpg", // Replace with a cartoon koala image
         text: "The Koala is very sleepy. They sleep for 20 hours a day! Why? Their food makes them feel a bit drunk. They are always sleepy!",
         text_simple: [
             "The Koala is very sleepy.",
@@ -13,7 +13,7 @@ const stories = {
     },
     'quokka': {
         title: "2. The Happy Island!",
-        image: "image-quokka.png", // Replace with a smiling quokka image
+        image: "quokka.jpg", // Replace with a smiling quokka image
         text: "This small animal is the Quokka. It is the happiest animal in the world! It always looks like it is smiling. People love to take Quokka Selfies!",
         text_simple: [
             "This small animal is the Quokka.",
@@ -24,7 +24,7 @@ const stories = {
     },
     'croc': {
         title: "3. The Croc Pool!",
-        image: "image-croc.png", // Replace with a funny cartoon crocodile image
+        image: "croc.jpg", // Replace with a funny cartoon crocodile image
         text: "Crocodiles hide in rivers in the north. The signs say 'No Swimming. Crocs!' But sometimes, a big crocodile walks into a person's swimming pool. A man calls the police! There is a monster in his backyard!",
         text_simple: [
             "Crocodiles hide in rivers in the north.",
@@ -35,7 +35,7 @@ const stories = {
     },
     'slang': {
         title: "4. The Short-Word City!",
-        image: "image-slang.png", // Replace with an image of someone saying 'G'day'
+        image: "mullet.jpg", // Replace with an image of someone saying 'G'day'
         text: "Australians speak English, but it is weird. They do not say 'Hello, how are you?' They say: 'G'day, mate!' Everything is shorter and smaller in Australia. A barbecue is a 'Barbie!'",
         text_simple: [
             "Australians speak English, but it is weird.",
@@ -46,7 +46,7 @@ const stories = {
     },
     'sydney': {
         title: "5. The Coathanger View!",
-        image: "image-sydney.png", // Replace with an image of the Opera House and Bridge
+        image: "sydney.jpg", // Replace with an image of the Opera House and Bridge
         text: "Sydney has two big famous things. The Opera House looks like giant white shells. The Sydney Harbour Bridge is so big, people call it 'The Coathanger.' You can climb the Coathanger! What a funny clothes rack!",
         text_simple: [
             "Sydney has two big famous things.",
@@ -57,7 +57,7 @@ const stories = {
     },
     'christmas': {
         title: "6. The Hot Christmas Beach!",
-        image: "image-santa.png", // Replace with a funny image of Santa on a beach
+        image: "santa.jpg", // Replace with a funny image of Santa on a beach
         text: "In Australia, Christmas is in summer, and it is hot! Santa does not wear a red coat. He wears a swimming suit! Australians eat their Christmas lunch outside, next to the pool. Singing about a 'White Christmas' is very funny!",
         text_simple: [
             "Christmas is in summer, and it is hot!",
@@ -68,7 +68,7 @@ const stories = {
     },
     'desert': {
         title: "7. The Boomerang Desert!",
-        image: "image-boomerang.png", // Replace with an image of a boomerang
+        image: "uluru.jpg", // Replace with an image of a boomerang
         text: "The Boomerang is a special wooden stick. Ancient people used it to hunt. The funny part? You throw it, and it magically flies all the way back to you! Just watch out it doesn't hit your head!",
         text_simple: [
             "The Boomerang is a special wooden stick.",

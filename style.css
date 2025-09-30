@@ -11,7 +11,7 @@ h1 {
 
 #map-container {
     position: relative;
-    width: 800px; /* Adjust size based on your map image */
+    width: 600px; /* Adjust size based on your map image */
     margin: 20px auto;
     border: 5px solid #a0522d; /* Brown Border for Map */
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
